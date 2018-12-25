@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Personal Cloud</string>
+    <string name="account">请输入登录账号</string>
+    <string name="password">请输入登录密码</string>
+    <string name="check_password">记住密码</string>
+    <string name="check_login">自动登录</string>
+    <string name="login">登录</string>
+    <string name="logout">注销</string>
+    <string name="loading">正在登录</string>
+    <dimen name="dp_1">2dp</dimen>
+    <dimen name="item_height_normal">50dp</dimen>
+    <dimen name="margin_large">40dp</dimen>
+    <dimen name="dp_120">120dp</dimen>
+    <dimen name="dp_19">19dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="margin_tiny">2dp</dimen>
+    <dimen name="margin_normal">5dp</dimen>
+    <dimen name="text_size_normal">13dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="dp_18">18dp</dimen>
+    <dimen name="image_height_litter">15dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="margin_huge">50dp</dimen>
+</resources>
